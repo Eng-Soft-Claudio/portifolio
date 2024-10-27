@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    background: linear-gradient(to bottom right, #1c1e21, #3b3f43); /* Gradiente de fundo */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#display {
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: #00d1b2;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra de texto para destaque */
+    border: 3px solid #00d1b2; /* Borda ao redor do display */
+    border-radius: 10px; /* Bordas arredondadas */
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cronometro-card {
+    border-radius: 50%; /* Forma arredondada */
+    background-color: #2a2d31;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6), 0 0 25px rgba(255, 255, 255, 0.3); /* Efeito de luz nas bordas */
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centraliza os elementos verticalmente */
+    align-items: center; /* Centraliza os elementos horizontalmente */
+    width: 400px; /* Largura fixa */
+    height: 400px; /* Altura fixa */
+}
+
+.progress-bar {
+    background-color: #00d1b2;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; /* Centraliza os botões */
+    gap: 10px; /* Espaçamento entre os botões */
+    margin-top: auto; /* Coloca os botões na parte inferior da div */
+}
+
+.start-button, .pause-button, .reset-button {
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 25px; /* Botões ovalados */
+    border: none;
+    font-size: 1.2rem;
+    color: #e9ecef;
+    transition: box-shadow 0.3s ease; /* Transição suave para o efeito de hover */
+}
+
+.start-button {
+    background-color: #00d1b2;
+}
+
+.pause-button {
+    background-color: #ffb347;
+}
+
+.reset-button {
+    background-color: #ff416c;
+}
+
+.start-button:hover, .pause-button:hover, .reset-button:hover {
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.5); /* Efeito de sombra ao passar o mouse */
+}
+
+h1 {
+    color: #e9ecef;
+    text-align: center;
+}
