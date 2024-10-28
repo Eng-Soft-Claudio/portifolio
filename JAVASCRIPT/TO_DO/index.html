@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <!-- Link do Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Link para o CSS personalizado -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">To-Do List</h1>
+        <div class="input-group mb-3">
+            <input type="text" id="taskInput" class="form-control" placeholder="Adicione uma nova tarefa" aria-label="Adicione uma nova tarefa">
+            <div class="input-group-append">
+                <button class="btn btn-primary" id="addTaskButton">Adicionar</button>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="task-box">
+                    <h5>Tarefas Ativas</h5>
+                    <ul id="activeTasks" class="list-group"></ul>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="task-box">
+                    <h5>Tarefas Concluídas</h5>
+                    <ul id="completedTasks" class="list-group"></ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-right mt-3">
+            <button class="btn btn-secondary" id="toggleMode">Modo Escuro</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
