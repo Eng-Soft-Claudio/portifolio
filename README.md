@@ -43,4 +43,7 @@ Atualmente, estou aprofundando meus conhecimentos em **JavaScript** e **Python**
 
 ---
 
-### 
+### 📫 Contato
+- **LinkedIn**: [Cláudio de Lima Tosta](https://www.linkedin.com/in/claudiodelimatosta)
+- **GitHub**: [Eng-Soft-Claudio](https://github.com/Eng-Soft-Claudio)
+- **E-mail**: [claudiodelimatosta@gmail.com](mailto:claudiodelimatosta@gmail.com)
