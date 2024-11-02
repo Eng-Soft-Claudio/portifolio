@@ -1,51 +1,38 @@
-# Cláudio de Lima Tosta
+Cláudio de Lima Tosta
+🌐 Sobre Mim
+Desenvolvedor em ascensão com uma formação multifacetada, sou graduado em Ciências Biológicas e pós-graduado em Gestão Ambiental. Atualmente, curso o 4º período de Engenharia de Software, onde estou focado em aprimorar minhas habilidades em desenvolvimento de software. Minha paixão por tecnologia e inovação me impulsiona a criar soluções que impactam positivamente a sociedade.
 
-### 🌐 Sobre Mim
-Sou um desenvolvedor com uma formação diversificada, graduado em Ciências Biológicas e pós-graduado em Gestão Ambiental. Atualmente, estou no 4º período de Engenharia de Software e desenvolvendo minhas habilidades em desenvolvimento de softwares.
+🛠️ Habilidades Técnicas
+Linguagens de Programação:
 
----
+Python: Expertise em análise de dados, automação de processos e desenvolvimento de aplicações.
+JavaScript: Experiência no desenvolvimento de aplicações web dinâmicas e interativas.
+Frameworks e Bibliotecas:
 
-### 🛠️ Habilidades Técnicas
+Tkinter: Desenvolvimento de interfaces gráficas intuitivas em Python.
+Bootstrap: Criação de designs responsivos para aplicações web modernas.
+APIs REST: Integração com serviços externos como OpenWeather e ExchangeRate para funcionalidades dinâmicas.
+Ferramentas de Desenvolvimento:
 
-- **Linguagens de Programação**:
-  - Python (focado em análise de dados e automação)
-  - JavaScript (para desenvolvimento web e interatividade)
+Git & GitHub: Práticas de controle de versão e colaboração eficaz em projetos.
+Visual Studio Code: Ambiente de desenvolvimento preferido, com suporte a diversas extensões.
+📂 Projetos em Destaque
+Calculadora em Python com Tkinter
 
-- **Frameworks e Bibliotecas**:
-  - Tkinter (para interfaces gráficas em Python)
-  - Bootstrap (para design responsivo)
-  - API REST (integração com APIs como OpenWeather e ExchangeRate)
+Desenvolvi uma aplicação gráfica que oferece operações matemáticas básicas, incluindo raiz quadrada e porcentagem.
+Tecnologias: Python, Tkinter
+Conversor de Moedas em Tempo Real
 
-- **Ferramentas e Versionamento**:
-  - Git & GitHub (controle de versão e colaboração)
-  - Visual Studio Code
+Implementação de uma aplicação que permite a conversão de moedas utilizando uma API para obter taxas de câmbio atualizadas em tempo real.
+Tecnologias: Python, Tkinter, API ExchangeRate
+Quiz Educacional em Python
 
----
+Criação de um quiz interativo que se conecta a uma API do ChatGPT, proporcionando perguntas dinâmicas e uma experiência envolvente ao usuário.
+Tecnologias: Python, Tkinter, API ChatGPT
+📈 Em Desenvolvimento
+Atualmente, estou expandindo minhas habilidades em JavaScript e Python, com foco em análise de dados e desenvolvimento web. Estou aprofundando meus conhecimentos em criação de interfaces responsivas e intuitivas, buscando sempre aprimorar a experiência do usuário em minhas aplicações.
 
-### 📂 Projetos
-
-#### 1. **Calculadora em Python com Tkinter**
-   - Calculadora gráfica em Python com operações básicas, raiz quadrada e porcentagem.
-   - **Tecnologias**: Python, Tkinter
-
-#### 2. **Conversor de Moedas em Tempo Real**
-   - Conversão de moedas usando uma API com taxas de câmbio atualizadas.
-   - **Tecnologias**: Python, Tkinter, API ExchangeRate
-
-#### 3. **Quiz Educacional em Python**
-   - Quiz interativo integrado a uma API do ChatGPT para perguntas dinâmicas.
-   - **Tecnologias**: Python, Tkinter, API ChatGPT
-
----
-
-### 📈 Em Desenvolvimento
-
-Atualmente, estou expandindo minhas habilidades em **JavaScript** e **Python** com foco em análise de dados e desenvolvimento web. Meus estudos incluem conceitos de **responsividade e interatividade** para a criação de interfaces intuitivas e adaptáveis.
-
----
-
-### 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/seu-nome)
-- [GitHub](https://github.com/seu-nome)
-- E-mail: seu-email@exemplo.com
+📫 Contato
+- [LinkedIn](www.linkedin.com/in/claudiodelimatosta)
+- [GitHub](https://github.com/Eng-Soft-Claudio)
+- E-mail: claudiodelimatosta@gmail.com
