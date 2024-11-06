@@ -1,5 +1,6 @@
 # Bibliotecas
 from tkinter import *
+from PIL import Image, ImageTk
 
 # Configuração da janela
 janela = Tk()
