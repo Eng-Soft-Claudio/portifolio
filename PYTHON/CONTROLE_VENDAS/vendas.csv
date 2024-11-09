@@ -1,60 +1,105 @@
 Nome do Comprador,Valor Total,Quantidade,Forma de Pagamento,Status do Pagamento
 Olavo,28.0,4,PIX,PAGO
-Washington,28.0,4,Prazo,EM ABERTO
-Washington,28.0,4,Prazo,EM ABERTO
-Washington,28.0,4,Prazo,EM ABERTO
-Karina,21.0,3,Prazo,EM ABERTO
-Valdo,21.0,3,Prazo,EM ABERTO
-Valdo,7.0,1,Prazo,EM ABERTO
-Valdo,7.0,1,Prazo,EM ABERTO
-Josemir,14.0,2,Prazo,EM ABERTO
-Roberto S.,7.0,1,Prazo,EM ABERTO
+Washington,28.0,4,Prazo,PAGO
+Washington,28.0,4,Prazo,PAGO
+Washington,28.0,4,Prazo,PAGO
+Karina,21.0,3,Prazo,PAGO
+Valdo,21.0,3,Prazo,PAGO
+Valdo,7.0,1,Prazo,PAGO
+Valdo,7.0,1,Prazo,PAGO
+Josemir,14.0,2,Prazo,PAGO
+Roberto S.,7.0,1,Prazo,PAGO
 Roziel,14.0,2,Dinheiro,PAGO
-Roziel,21.0,3,Prazo,EM ABERTO
+Roziel,21.0,3,Prazo,PAGO
 Willians,14.0,2,Pix,PAGO
 Mulher Loteria,7.0,1,Dinheiro,PAGO
-Ilmo,7.0,1,Prazo,EM ABERTO
+Ilmo,7.0,1,Prazo,PAGO
 Maurilio,21.0,3,Prazo,PAGO
 Maurilio,7.0,1,Prazo,PAGO
 Leandro,14.0,2,Pix,PAGO
-Daniel,21.0,3,Prazo,EM ABERTO
-Daniel,14.0,2,Prazo,EM ABERTO
-Gustavo,21.0,3,Prazo,EM ABERTO
-Gustavo,28.0,4,Prazo,EM ABERTO
+Daniel,21.0,3,Prazo,PAGO
+Daniel,14.0,2,Prazo,PAGO
+Gustavo,21.0,3,Prazo,PAGO
+Gustavo,28.0,4,Prazo,PAGO
 Genival,49.0,7,Dinheiro,PAGO
 Josimar,14.0,2,Prazo,EM ABERTO
-Manoel,14.0,2,Prazo,EM ABERTO
-Manoel,21.0,3,Prazo,EM ABERTO
-Glaucio,21.0,3,Prazo,EM ABERTO
-Glaucio,14.0,2,Prazo,EM ABERTO
+Manoel,14.0,2,Prazo,PAGO
+Manoel,21.0,3,Prazo,PAGO
+Glaucio,21.0,3,Prazo,PAGO
+Glaucio,14.0,2,Prazo,PAGO
 Cowboy,21.0,3,Pix,PAGO
 Lucas,7.0,1,Prazo,EM ABERTO
 Joneson,14.0,2,Dinheiro,PAGO
-Ailton,21.0,3,Prazo,EM ABERTO
+Ailton,21.0,3,Prazo,PAGO
 Gustavo Fiscal,21.0,3,Pix,PAGO
 Jean,14.0,2,Dinheiro,PAGO
 Rodrigo,21.0,3,Pix,PAGO
 Luziano,14.0,2,Prazo,EM ABERTO
-Ricardo,14.0,2,Prazo,EM ABERTO
-Ricardo,14.0,2,Prazo,EM ABERTO
-Francisco,28.0,4,Prazo,EM ABERTO
-Olavo,14.0,2,Prazo,EM ABERTO
-Daniel,14.0,2,Prazo,EM ABERTO
+Ricardo,14.0,2,Prazo,PAGO
+Ricardo,14.0,2,Prazo,PAGO
+Francisco,28.0,4,Prazo,PAGO
+Olavo,14.0,2,Prazo,PAGO
+Daniel,14.0,2,Prazo,PAGO
 Gustavo Fiscal,21.0,3,Pix,PAGO
-Antonio Sergio,14.0,2,Prazo,EM ABERTO
-Marcelo,14.0,2,Prazo,EM ABERTO
-Roberto M.,7.0,1,Prazo,EM ABERTO
-Denilson,21.0,3,Prazo,EM ABERTO
+Antonio Sergio,14.0,2,Prazo,PAGO
+Marcelo,14.0,2,Prazo,PAGO
+Roberto M.,7.0,1,Prazo,PAGO
+Denilson,21.0,3,Prazo,PAGO
 Vinicius,7.0,1,Pix,PAGO
-Washington,28.0,4,Prazo,EM ABERTO
-Karina,21.0,3,Prazo,EM ABERTO
-Olavo,7.0,1,Prazo,EM ABERTO
-Ilmo,14.0,2,Prazo,EM ABERTO
-Leandro,7.0,1,Prazo,EM ABERTO
+Washington,28.0,4,Prazo,PAGO
+Karina,21.0,3,Prazo,PAGO
+Olavo,7.0,1,Prazo,PAGO
+Ilmo,14.0,2,Prazo,PAGO
+Leandro,7.0,1,Prazo,PAGO
 Daniel,14.0,2,Pix,PAGO
-Denilson,14.0,2,Prazo,EM ABERTO
+Denilson,14.0,2,Prazo,PAGO
 Jose Vinicuis,21.0,3,Pix,PAGO
-Genival,14.0,2,Prazo,EM ABERTO
+Genival,14.0,2,Prazo,PAGO
 Miro,14.0,2,Prazo,EM ABERTO
 Ilmo,7.0,1,Dinheiro,PAGO
 Jose Ariel,28.0,4,Pix,PAGO
+Piau,28.0,4,Prazo,PAGO
+Valdo,14.0,2,Prazo,PAGO
+Gustavo Fiscal,14.0,2,Pix,PAGO
+Josue,28.0,4,Prazo,PAGO
+Rodrigo,21.0,3,Pix,PAGO
+Denilson,21.0,3,Prazo,PAGO
+Olavo,7.0,1,Prazo,PAGO
+Luziano,21.0,3,Prazo,EM ABERTO
+Jackson,7.0,1,Dinheiro,PAGO
+Edberg,14.0,2,Dinheiro,PAGO
+Glaucio,14.0,2,Prazo,PAGO
+Jose Ariel,14.0,2,Prazo,PAGO
+Luciano,28.0,4,Prazo,PAGO
+Rodrigo,14.0,2,Pix,PAGO
+Olavo,7.0,1,Prazo,PAGO
+Valdo,7.0,1,Prazo,PAGO
+Jose Vinicius,7.0,1,Prazo,PAGO
+Maurilio,14.0,2,Pix,PAGO
+Gease,14.0,2,Pix,PAGO
+Antonio Paz,7.0,1,Dinheiro,PAGO
+Alefy,7.0,1,Pix,PAGO
+Moises,28.0,4,Pix,PAGO
+Leandro,7.0,1,Prazo,PAGO
+Ilmo,7.0,1,Prazo,PAGO
+Manoel,7.0,1,Prazo,PAGO
+Rodrigo,14.0,2,Pix,PAGO
+Jose Vinicius,7.0,1,Dinheiro,PAGO
+Genival,21.0,3,Dinheiro,PAGO
+Sandro,7.0,1,Prazo,PAGO
+Luciano 1/2kg,14.0,2,Prazo,PAGO
+Luciano,7.0,1,Dinheiro,PAGO
+Washington,14.0,2,Prazo,EM ABERTO
+Washington,7.0,1,Prazo,EM ABERTO
+Antonio Paz,7.0,1,Dinheiro,PAGO
+Jose Ariel,14.0,2,Pix,PAGO
+Jean,21.0,3,Dinheiro,PAGO
+Luciano,21.0,3,Dinheiro,PAGO
+Rodrigo,14.0,2,Pix,PAGO
+Wesley,14.0,2,Prazo,PAGO
+Luciano 1/2kg,14.0,2,Dinheiro,PAGO
+Genival,14.0,2,Prazo,EM ABERTO
+Glaucio,21.0,3,Prazo,EM ABERTO
+Matheus,7.0,1,Prazo,EM ABERTO
+Cowboy,7.0,1,Dinheiro,PAGO
+Gustavo Fiscal,21.0,3,Pix,PAGO
